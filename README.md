@@ -1,0 +1,3 @@
+For anyone who does not know me: I am Imgur’s resident Elvish expert. For the last eight and half years, I have been translating all of the random Elvish writing that gets posted on here. Elvish is written in a script called Tengwar. When I first learned to read Tengwar, I used to take ebooks and paste them line by line into a transcription website. Then, I would save all the Tengwar lines to a Word document. I would print out the pages and practice reading them. 
+
+I thought it would be cool if there were entire books available for people to read in Tengwar. So two months ago, I started working on a Python script that takes ebooks (as text files) and converts them into Tengwar (as PDFs).
